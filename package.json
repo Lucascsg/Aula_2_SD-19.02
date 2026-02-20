@@ -1,0 +1,26 @@
+{
+  "name": "aula_2_sd-19.02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_inseguro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucascsg/Aula_2_SD-19.02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lucascsg/Aula_2_SD-19.02/issues"
+  },
+  "homepage": "https://github.com/Lucascsg/Aula_2_SD-19.02#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mysql2": "^3.17.3"
+  }
+}
